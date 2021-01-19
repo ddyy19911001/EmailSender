@@ -1,0 +1,2 @@
+include ':app', ':maillibrary'
+rootProject.name='EmailFramwork'
